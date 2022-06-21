@@ -1,4 +1,7 @@
-- 👩‍💻Web Engineer
+```mermaid
+flowchart LR
+  うどん & 文鳥 & お昼寝 & ソフトウェアアーキテクチャのお勉強 --> だいすき
+```
 
 <!---
 wannyanland/wannyanland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

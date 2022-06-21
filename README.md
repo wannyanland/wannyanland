@@ -1,4 +1,5 @@
 ```mermaid
+%%{init:{'theme':'base'}}%%
 flowchart LR
   うどん & 文鳥 & お昼寝 & ソフトウェアアーキテクチャのお勉強 --> だいすき
 ```
